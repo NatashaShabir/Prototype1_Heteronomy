@@ -1,0 +1,948 @@
+﻿Log file open, 09/29/19 13:12:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: P1_Heteronomy
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187581
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Phenom(tm) II X6 1090T Processor, GPU: AMD Radeon HD 6900 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:863][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-03.12.35:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-03.12.35:867][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:868][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-03.12.35:868][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-03.12.35:868][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-03.12.35:868][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.29-03.12.35:886][  0]LogHAL: Display: Platform has ~ 8 GB [8588017664 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.29-03.12.35:886][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.29-03.12.35:886][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.29-03.12.35:886][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:886][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-03.12.35:886][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-03.12.35:886][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:886][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-03.12.35:886][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:886][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-03.12.35:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.29-03.12.35:888][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Config/Windows/Engine.ini]
+[2019.09.29-03.12.35:888][  0]LogInit: Computer: BETA
+[2019.09.29-03.12.35:888][  0]LogInit: User: Natasha
+[2019.09.29-03.12.35:888][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.29-03.12.35:888][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2019.09.29-03.12.35:888][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.09.29-03.12.35:889][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.29-03.12.35:889][  0]LogMemory: Process Physical Memory: 97.02 MB used, 97.02 MB peak
+[2019.09.29-03.12.35:889][  0]LogMemory: Process Virtual Memory: 95.79 MB used, 95.79 MB peak
+[2019.09.29-03.12.35:889][  0]LogMemory: Physical Memory: 4492.82 MB used,  3697.35 MB free, 8190.17 MB total
+[2019.09.29-03.12.35:889][  0]LogMemory: Virtual Memory: 4651.14 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.09.29-03.12.35:905][  0]LogInit: Using OS detected language (en-US).
+[2019.09.29-03.12.35:905][  0]LogInit: Using OS detected locale (en-AU).
+[2019.09.29-03.12.35:906][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.29-03.12.36:115][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.29-03.12.36:151][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.29-03.12.36:151][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.29-03.12.36:348][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-03.12.36:348][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.29-03.12.36:358][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6900 Series' (Feature Level 11_0)
+[2019.09.29-03.12.36:358][  0]LogD3D11RHI:       2032/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.09.29-03.12.36:360][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.29-03.12.36:360][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.29-03.12.36:360][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.29-03.12.36:366][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.29-03.12.36:366][  0]LogD3D11RHI:     GPU DeviceId: 0x6718 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.29-03.12.36:366][  0]LogWindows: EnumDisplayDevices:
+[2019.09.29-03.12.36:367][  0]LogWindows:    0. 'AMD Radeon HD 6900 Series' (P:1 D:1)
+[2019.09.29-03.12.36:367][  0]LogWindows:    1. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2019.09.29-03.12.36:367][  0]LogWindows:    2. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2019.09.29-03.12.36:368][  0]LogWindows:    3. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2019.09.29-03.12.36:368][  0]LogWindows:    4. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2019.09.29-03.12.36:368][  0]LogWindows:    5. 'AMD Radeon HD 6900 Series' (P:0 D:0)
+[2019.09.29-03.12.36:368][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2019.09.29-03.12.36:368][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6900 Series
+[2019.09.29-03.12.36:368][  0]LogD3D11RHI:   Driver Version: Crimson 16.2.1 (internal:15.301.1901.0, unified:15.301.1901.0)
+[2019.09.29-03.12.36:368][  0]LogD3D11RHI:      Driver Date: 2-26-2016
+[2019.09.29-03.12.36:368][  0]LogRHI: Texture pool is 1422 MB (70% of 2032 MB)
+[2019.09.29-03.12.36:409][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2019.09.29-03.12.36:416][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.29-03.12.36:420][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-03.12.36:421][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-03.12.36:421][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-03.12.36:428][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.09.29-03.12.36:778][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.29-03.12.36:797][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.29-03.12.36:817][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.29-03.12.36:836][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.29-03.12.36:856][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.29-03.12.36:875][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.29-03.12.36:894][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.29-03.12.36:914][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.29-03.12.36:923][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.29-03.12.37:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.29-03.12.37:043][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.29-03.12.37:104][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.29-03.12.37:104][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.29-03.12.37:138][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.29-03.12.37:138][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.29-03.12.37:156][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.29-03.12.37:173][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.29-03.12.37:191][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.29-03.12.37:209][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.29-03.12.37:275][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.29-03.12.37:275][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.29-03.12.37:275][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.29-03.12.37:285][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.29-03.12.37:340][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Intermediate/Shaders/WorkingDirectory/5968/).
+[2019.09.29-03.12.37:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Natasha/AppData/Local/Temp/UnrealShaderWorkingDir/54934F664AA1552D16D64FBC9D3934B5/'.
+[2019.09.29-03.12.37:343][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.29-03.12.37:343][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.29-03.12.37:343][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.29-03.12.38:638][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Natasha/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Natasha/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-03.12.38:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.29-03.12.38:736][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.29-03.12.38:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-03.12.38:736][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.29-03.12.38:748][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Natasha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.29-03.12.38:748][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.29-03.12.38:748][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.29-03.12.38:780][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.29-03.12.38:781][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.29-03.12.38:782][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.29-03.12.38:877][  0]LogAssetRegistry: FAssetRegistry took 0.0380 seconds to start up
+[2019.09.29-03.12.39:330][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-03.12.39:508][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.29-03.12.39:508][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.29-03.12.39:508][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.29-03.12.39:508][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.29-03.12.39:508][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.29-03.12.39:521][  0]LogNetVersion: P1_Heteronomy 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3369984173)
+[2019.09.29-03.12.40:052][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.062896 seconds
+[2019.09.29-03.12.40:061][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.29-03.12.40:062][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.29-03.12.40:062][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.29-03.12.41:019][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.29-03.12.41:033][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.29-03.12.41:159][  0]SourceControl: Source control is disabled
+[2019.09.29-03.12.41:159][  0]SourceControl: Source control is disabled
+[2019.09.29-03.12.41:160][  0]SourceControl: Source control is disabled
+[2019.09.29-03.12.41:161][  0]SourceControl: Source control is disabled
+[2019.09.29-03.12.41:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.29-03.12.41:348][  0]LogOcInput: OculusInput pre-init called
+[2019.09.29-03.12.42:088][  0]LogEngine: Initializing Engine...
+[2019.09.29-03.12.42:089][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.29-03.12.42:091][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.29-03.12.42:357][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.29-03.12.42:374][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-03.12.42:403][  0]LogInit: XAudio2 using 'SPDIF Interface (TX1) (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-03.12.42:433][  0]LogInit: FAudioDevice initialized.
+[2019.09.29-03.12.42:433][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.29-03.12.44:781][  0]LogDerivedDataCache: Saved boot cache 2.35s 71MB C:/Users/Natasha/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-03.12.44:787][  0]LogInit: Texture streaming: Enabled
+[2019.09.29-03.12.44:811][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.29-03.12.44:835][  0]LogInit: Transaction tracking system initialized
+[2019.09.29-03.12.44:862][  0]BlueprintLog: New page: Editor Load
+[2019.09.29-03.12.45:090][  0]LocalizationService: Localization service is disabled
+[2019.09.29-03.12.45:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/' took 0.02s
+[2019.09.29-03.12.45:671][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.29-03.12.45:671][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.29-03.12.45:952][  0]SourceControl: Source control is disabled
+[2019.09.29-03.12.46:069][  0]LightingResults: New page: Lighting Build
+[2019.09.29-03.12.46:072][  0]MapCheck: New page: Map Check
+[2019.09.29-03.12.46:072][  0]LightingResults: New page: Lighting Build
+[2019.09.29-03.12.46:105][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.09.29-03.13.01:387][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.29-03.13.01:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-03.13.01:576][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.09.29-03.13.01:576][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-03.13.01:577][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2019.09.29-03.13.01:577][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 15.625
+[2019.09.29-03.13.03:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.13.03:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.13.03:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.13.03:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.13.03:399][  0]LogCollectionManager: Loaded 0 collections in 0.001864 seconds
+[2019.09.29-03.13.03:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Collections/' took 0.01s
+[2019.09.29-03.13.03:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Developers/Natasha/Collections/' took 0.00s
+[2019.09.29-03.13.03:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Collections/' took 0.01s
+[2019.09.29-03.13.03:558][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.09.29-03.13.03:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2732 classes and 659 folders.
+[2019.09.29-03.13.03:647][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-03.13.03:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.03:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-03.13.04:948][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-03.13.05:012][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.29-03.13.05:249][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.29-03.13.05:251][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.29-03.13.05:317][  0]LogSlate: Took 0.059395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.29-03.13.05:723][  0]LogRenderer: Reallocating scene render targets to support 1092x692 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-03.13.06:031][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-03.13.06:031][  0]LogLoad: (Engine Initialization) Total time: 33.08 seconds
+[2019.09.29-03.13.06:031][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.29-03.13.06:111][  0]LogAssetRegistry: Asset discovery search completed in 27.2563 seconds
+[2019.09.29-03.13.06:114][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.29-03.13.06:114][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.09.29-03.13.06:116][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.29-03.13.06:236][  0]LogSlate: Took 0.050693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-03.13.07:078][ 71]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-03.13.55:184][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.13.55:385][843]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/BasicShapeMaterial3.BasicShapeMaterial3
+[2019.09.29-03.13.55:490][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial3, compiling. 
+[2019.09.29-03.13.56:677][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial3, compiling. 
+[2019.09.29-03.13.56:715][843]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.29-03.13.56:756][843]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial3, compiling. 
+[2019.09.29-03.13.56:819][843]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.09.29-03.13.56:887][843]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MoveObjectTrigger.MoveObjectTrigger
+[2019.09.29-03.13.58:653][843]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.09.29-03.14.00:121][843]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.29-03.14.00:739][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.29-03.14.00:864][843]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactive_Object.Interactive_Object
+[2019.09.29-03.14.01:339][843]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/InteractInterface.InteractInterface
+[2019.09.29-03.14.01:897][843]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.09.29-03.14.01:897][843]LogSlate: Took 0.022368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.29-03.14.02:504][844]LogSlate: Took 0.019034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.29-03.14.02:581][848]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.29-03.14.05:203][125]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.09.29-03.14.05:203][125]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.09.29-03.14.05:203][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.09.29-03.14.05:203][125]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.09.29-03.14.05:203][125]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.29-03.14.13:198][ 30]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.29-03.14.16:159][267]LogSlate: Window 'BasicShapeMaterial3' being destroyed
+[2019.09.29-03.14.37:194][335]LogAIModule: Creating AISystem for world SubwayTunnels
+[2019.09.29-03.14.37:382][335]LogAssetEditorManager: Opening Asset editor for World /Game/Level/SubwayTunnels.SubwayTunnels
+[2019.09.29-03.14.37:439][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.09.29-03.14.37:452][335]Cmd: MAP LOAD FILE="../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Level/SubwayTunnels.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-03.14.37:452][335]LightingResults: New page: Lighting Build
+[2019.09.29-03.14.37:453][335]LoadErrors: New page: Loading map: SubwayTunnels.umap
+[2019.09.29-03.14.37:454][335]MapCheck: New page: Map Check
+[2019.09.29-03.14.37:454][335]LightingResults: New page: Lighting Build
+[2019.09.29-03.14.37:498][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.09.29-03.14.37:525][335]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-03.14.37:664][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.09.29-03.14.37:713][335]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-03.14.37:713][335]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2019.09.29-03.14.37:713][335]LogFileHelpers: Loading map 'SubwayTunnels' took 0.273
+[2019.09.29-03.17.11:305][328]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DialogueWidget.DialogueWidget
+[2019.09.29-03.17.11:868][328]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.09.29-03.18.22:933][191]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueWidget5819DCDB4E4847DB54D28686686BBB3F.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/DialogueWidget.uasset'
+[2019.09.29-03.18.25:983][463]LogSlate: Window 'DialogueWidget' being destroyed
+[2019.09.29-03.18.37:483][537]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueWidget.SKEL_DialogueWidget_C' ref from Metadata '/Game/Blueprints/DialogueWidget.PackageMetaData'
+[2019.09.29-03.18.37:483][537]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueWidget.DialogueWidget_C' ref from Metadata '/Game/Blueprints/DialogueWidget.PackageMetaData'
+[2019.09.29-03.18.37:483][537]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/DialogueWidget.PackageMetaData'
+[2019.09.29-03.18.37:483][537]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/DialogueWidget.PackageMetaData'
+[2019.09.29-03.18.37:483][537]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/DialogueWidget.PackageMetaData'
+[2019.09.29-03.18.37:525][537]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueWidget06A328234CAE1E28FE912285CAEE2DEC.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueWidget.uasset'
+[2019.09.29-03.18.37:805][537]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.09.29-03.18.37:860][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.09.29-03.18.37:905][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.29-03.21.37:437][565]Cmd: TRANSACTION UNDO
+[2019.09.29-03.21.37:437][565]LogEditorTransaction: Undo Edit Left
+[2019.09.29-03.22.03:542][674]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.29-03.24.08:600][630]LogSlate: Took 0.021219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.29-03.24.11:790][ 10]BlueprintLog: New page: Compile DialogueWidget
+[2019.09.29-03.24.11:844][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.09.29-03.25.00:905][840]BlueprintLog: New page: Compile DialogueWidget
+[2019.09.29-03.25.00:957][840]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.09.29-03.25.22:954][446]BlueprintLog: New page: Compile DialogueWidget
+[2019.09.29-03.25.23:008][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.09.29-03.25.25:737][745]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueWidget80BAD24D41BB5131C56A08BED1962DA3.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueWidget.uasset'
+[2019.09.29-03.26.19:175][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.26.59:936][ 59]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.09.29-03.27.58:828][346]Cmd: TRANSACTION UNDO
+[2019.09.29-03.27.58:828][346]LogEditorTransaction: Undo Move Node
+[2019.09.29-03.28.00:400][501]LogEditorTransaction: Undo Break Pin Links
+[2019.09.29-03.29.32:135][113]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.29-03.29.32:537][113]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2019.09.29-03.29.35:607][420]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-03.29.35:663][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.29.35:679][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-03.29.35:690][420]PIE: New page: PIE session: SubwayTunnels (29 Sep 2019 11:29:35 pm)
+[2019.09.29-03.29.35:738][420]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_SubwayTunnels
+[2019.09.29-03.29.35:827][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088423s)
+[2019.09.29-03.29.35:828][420]LogAIModule: Creating AISystem for world SubwayTunnels
+[2019.09.29-03.29.35:828][420]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.09.29-03.29.35:828][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/SubwayTunnels.SubwayTunnels to /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels (0.089579s)
+[2019.09.29-03.29.35:906][420]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.09.29-03.29.35:959][420]LogInit: XAudio2 using 'SPDIF Interface (TX1) (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-03.29.35:971][420]LogInit: FAudioDevice initialized.
+[2019.09.29-03.29.36:033][420]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.29-03.29.36:039][420]LogWorld: Bringing World /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels up for play (max tick rate 0) at 2019.09.29-13.29.36
+[2019.09.29-03.29.36:065][420]LogWorld: Bringing up level for play took: 0.030343
+[2019.09.29-03.29.36:165][420]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.09.29-03.29.36:180][420]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.09.29-03.29.36:181][420]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.09.29-03.29.36:272][420]PIE: Play in editor start time for /Game/Level/UEDPIE_0_SubwayTunnels 0.453
+[2019.09.29-03.29.36:272][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.29.40:925][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.29.40:926][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.29.40:959][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-03.29.40:959][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.29.41:032][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.29.41:067][906]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2019.09.29-03.29.41:111][907]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.29-03.29.42:099][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.30.08:636][606]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Dialogue/DialogueWidget.DialogueWidget
+[2019.09.29-03.30.35:247][723]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.09.29-03.30.35:247][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.058
+[2019.09.29-03.30.35:249][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.09.29-03.30.35:249][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.09.29-03.30.35:469][723]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/FirstPersonCharacter_Auto110BF9C6F4E1A76E6FBA616B7B5C5B739.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.09.29-03.30.35:493][723]LogFileHelpers: Auto-saving content packages took 0.245
+[2019.09.29-03.30.40:815][335]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/FirstPersonCharacterA7AABADF4DB57680B6009B9D877CC4A8.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.09.29-03.30.45:819][703]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.29-03.30.53:798][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Dialogue/DialogueTrigger.DialogueTrigger
+[2019.09.29-03.30.54:373][580]LogRenderer: Reallocating scene render targets to support 1160x712 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-03.31.08:047][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.32.16:080][629]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.32.16:392][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2019.09.29-03.32.27:869][210]LogSlate: Window 'DialogueTrigger' being destroyed
+[2019.09.29-03.32.33:459][737]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTriggerFD66524E4F89172B5895C5BBE174FA4F.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueTrigger.uasset'
+[2019.09.29-03.32.44:658][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.32.50:712][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.29-03.33.02:216][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-03.33.05:773][517]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.29-03.33.15:625][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.09.29-03.33.18:296][383]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-03.33.18:391][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.09.29-03.33.41:949][742]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/InteractInterface.InteractInterface
+[2019.09.29-03.36.05:573][910]BlueprintLog: New page: Compile InteractInterface
+[2019.09.29-03.36.05:644][910]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2019.09.29-03.37.13:096][966]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.29-03.37.13:446][966]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.09.29-03.37.28:883][690]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.29-03.40.48:593][618]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.09.29-03.40.49:345][618]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnels_Auto2D1CA29D24D63B370CFBFF0B88BE03C6A.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Level/SubwayTunnels_Auto2.umap'
+[2019.09.29-03.40.49:355][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.825
+[2019.09.29-03.40.49:355][618]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.825
+[2019.09.29-03.40.49:357][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.09.29-03.40.49:357][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.09.29-03.40.49:550][618]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/FirstPersonCharacter_Auto241C2EC16487E9A717112089948D76E1F.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.09.29-03.40.49:606][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InteractInterface] ([1] browsable assets)...
+[2019.09.29-03.40.49:606][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractInterface]
+[2019.09.29-03.40.49:635][618]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/InteractInterface_Auto229FB58524D1A279250D29083DC4E873E.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Blueprints/InteractInterface_Auto2.uasset'
+[2019.09.29-03.40.49:637][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Dialogue/DialogueTrigger] ([1] browsable assets)...
+[2019.09.29-03.40.49:637][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dialogue/DialogueTrigger]
+[2019.09.29-03.40.49:665][618]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTrigger_Auto215D4ED41414FE678DAAB179426D8A537.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Blueprints/Dialogue/DialogueTrigger_Auto2.uasset'
+[2019.09.29-03.40.49:666][618]LogFileHelpers: Auto-saving content packages took 0.310
+[2019.09.29-03.41.08:426][785]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.41.08:743][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.09.29-03.41.26:405][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.29-03.42.07:940][724]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.09.29-03.42.08:299][724]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2019.09.29-03.42.09:362][807]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/FirstPersonCharacter2E49258642B712710C1238A370558E6F.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.09.29-03.44.27:986][126]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.44.28:318][126]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2019.09.29-03.44.53:174][ 13]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTrigger6B544E1646256C851FF4648E1D812CAC.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueTrigger.uasset'
+[2019.09.29-03.46.42:893][835]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.46.43:233][835]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.09.29-03.47.36:774][132]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.47.37:112][132]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2019.09.29-03.47.37:670][188]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTrigger020346A44E14D3B76124C7A09F188895.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueTrigger.uasset'
+[2019.09.29-03.48.59:734][910]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.49.00:080][910]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2019.09.29-03.49.36:506][242]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.49.36:843][242]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.09.29-03.49.49:510][751]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-03.49.49:849][751]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.09.29-03.50.29:386][481]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTriggerCC6F9D76466C7CF9A25231BC83C27B51.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueTrigger.uasset'
+[2019.09.29-03.50.48:554][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-03.50.48:608][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.50.48:608][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-03.50.48:608][191]PIE: New page: PIE session: SubwayTunnels (29 Sep 2019 11:50:48 pm)
+[2019.09.29-03.50.48:608][191]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_SubwayTunnels
+[2019.09.29-03.50.48:698][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090354s)
+[2019.09.29-03.50.48:699][191]LogAIModule: Creating AISystem for world SubwayTunnels
+[2019.09.29-03.50.48:699][191]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.09.29-03.50.48:699][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/SubwayTunnels.SubwayTunnels to /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels (0.091257s)
+[2019.09.29-03.50.48:765][191]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2019.09.29-03.50.48:782][191]LogInit: XAudio2 using 'SPDIF Interface (TX1) (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-03.50.48:794][191]LogInit: FAudioDevice initialized.
+[2019.09.29-03.50.48:825][191]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.29-03.50.48:832][191]LogWorld: Bringing World /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels up for play (max tick rate 0) at 2019.09.29-13.50.48
+[2019.09.29-03.50.48:832][191]LogWorld: Bringing up level for play took: 0.005997
+[2019.09.29-03.50.48:848][191]PIE: Play in editor start time for /Game/Level/UEDPIE_0_SubwayTunnels 1.029
+[2019.09.29-03.50.48:848][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.53.46:302][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.53.46:302][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.53.46:336][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-03.53.46:336][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-03.53.46:404][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-03.53.46:414][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.09.29-03.53.46:462][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.09.29-03.54.12:564][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-03.54.12:642][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.09.29-03.54.13:411][231]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnels_Auto36B8833354434FD9CC7708E8D539F9EA2.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Level/SubwayTunnels_Auto3.umap'
+[2019.09.29-03.54.13:417][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.835
+[2019.09.29-03.54.13:417][231]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.835
+[2019.09.29-03.59.59:803][292]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/InteractInterface53E7F09145D2A813812A68BDD0AD11CB.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/InteractInterface.uasset'
+[2019.09.29-04.00.16:376][238]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueStructure.DialogueStructure' ref from Metadata '/Game/Blueprints/DialogueStructure.PackageMetaData'
+[2019.09.29-04.00.16:376][238]LogMetaData: Removing '/Game/Blueprints/Dialogue/DialogueStructure.DialogueStructure:MemberVar_0_1D5FDF274DDD67B5169C75B86B61D172' ref from Metadata '/Game/Blueprints/DialogueStructure.PackageMetaData'
+[2019.09.29-04.00.16:412][238]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueStructure0620DA72494EE29D9AF1CFB1CE2824D6.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueStructure.uasset'
+[2019.09.29-04.00.16:855][238]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.09.29-04.00.16:918][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.09.29-04.00.16:976][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.09.29-04.00.44:887][288]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Dialogue/DialogueStructure.DialogueStructure
+[2019.09.29-04.04.13:833][968]LogUObjectHash: Compacting FUObjectHashTables data took  13.15ms
+[2019.09.29-04.04.14:634][968]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnels_Auto434C1FD854231E61AB03BD7841D2C3E97.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Level/SubwayTunnels_Auto4.umap'
+[2019.09.29-04.04.14:643][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.894
+[2019.09.29-04.04.14:643][968]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.894
+[2019.09.29-04.22.43:729][115]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueStructure9FE2309C43F2467FFC82C28F73BFF081.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Blueprints/Dialogue/DialogueStructure.uasset'
+[2019.09.29-04.23.50:474][582]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 C:\Users\Natasha\Desktop\DialogueLines - Sheet1.csv)
+[2019.09.29-04.24.09:250][582]LogSlate: Window 'DataTable Options' being destroyed
+[2019.09.29-04.24.09:403][582]LogCSVImportFactory: Imported DataTable 'DialogueLines_-_Sheet1' - 0 Problems
+[2019.09.29-04.24.12:725][889]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.09.29-04.24.12:725][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.089
+[2019.09.29-04.24.12:727][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Dialogue/DialogueLines_-_Sheet1] ([1] browsable assets)...
+[2019.09.29-04.24.12:727][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dialogue/DialogueLines_-_Sheet1]
+[2019.09.29-04.24.12:738][889]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueLines_-_Sheet1_Auto5A221D83F43ED73907EAF4FBFC6C72961.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Blueprints/Dialogue/DialogueLines_-_Sheet1_Auto5.uasset'
+[2019.09.29-04.24.12:739][889]LogFileHelpers: Auto-saving content packages took 0.013
+[2019.09.29-04.24.20:341][691]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Dialogue/DialogueStructure.DialogueStructure
+[2019.09.29-04.24.39:518][805]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Blueprints/Dialogue/DialogueLines_-_Sheet1.DialogueLines_-_Sheet1
+[2019.09.29-04.24.39:640][805]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2019.09.29-04.26.19:629][550]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2019.09.29-04.26.20:443][550]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnelsCFC50B5049A8887391109FB2887C24B0.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Level/SubwayTunnels.umap'
+[2019.09.29-04.26.20:614][550]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnels_BuiltDataCD1AFD384A13CAFB3703219B79995F8A.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Content/Level/SubwayTunnels_BuiltData.uasset'
+[2019.09.29-04.27.58:401][559]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.27.58:830][559]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2019.09.29-04.28.18:896][943]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.28.19:272][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2019.09.29-04.31.28:703][229]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.31.29:087][229]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2019.09.29-04.34.25:458][689]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.34.25:864][689]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2019.09.29-04.34.48:379][340]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.29-04.35.32:907][ 86]LogSlate: Window 'Delete Variable' being destroyed
+[2019.09.29-04.35.53:063][346]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.35.53:449][346]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2019.09.29-04.36.18:404][954]LogSlate: Window 'Delete Variable' being destroyed
+[2019.09.29-04.36.22:298][414]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.36.22:688][414]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2019.09.29-04.37.31:417][560]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.37.31:809][560]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2019.09.29-04.38.16:941][916]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.38.17:334][916]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.09.29-04.38.55:275][452]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.38.55:667][452]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2019.09.29-04.39.50:546][955]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.39.50:937][955]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2019.09.29-04.41.13:317][689]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.41.13:712][689]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.09.29-04.44.28:976][817]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.44.29:374][817]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2019.09.29-04.47.59:392][146]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.47.59:803][146]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2019.09.29-04.48.57:284][848]LogEditorTransaction: Undo Delete current selection
+[2019.09.29-04.52.18:204][432]LogEditorTransaction: Undo Delete current selection
+[2019.09.29-04.52.18:591][471]LogEditorTransaction: Undo Delete current selection
+[2019.09.29-04.52.18:879][500]LogEditorTransaction: Undo Move Node
+[2019.09.29-04.52.19:131][526]LogEditorTransaction: Undo Add Node
+[2019.09.29-04.52.19:359][547]LogEditorTransaction: Undo Move Nodes
+[2019.09.29-04.52.19:560][567]LogEditorTransaction: Undo Move Node
+[2019.09.29-04.52.19:819][592]LogEditorTransaction: Undo Add Node
+[2019.09.29-04.52.20:095][618]LogEditorTransaction: Undo Move Node
+[2019.09.29-04.52.20:520][665]LogEditorTransaction: Undo Delete current selection
+[2019.09.29-04.52.46:597][775]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.52.47:013][775]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2019.09.29-04.54.09:667][176]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.54.10:080][176]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2019.09.29-04.54.46:252][487]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2019.09.29-04.54.47:089][487]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/SubwayTunnels_Auto649874AFF4220A01BC122D4941CC79E22.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Level/SubwayTunnels_Auto6.umap'
+[2019.09.29-04.54.47:094][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/SubwayTunnels' took 0.928
+[2019.09.29-04.54.47:095][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.928
+[2019.09.29-04.54.47:097][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Dialogue/DialogueTrigger] ([1] browsable assets)...
+[2019.09.29-04.54.47:097][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dialogue/DialogueTrigger]
+[2019.09.29-04.54.47:195][487]LogSavePackage: Moving '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/DialogueTrigger_Auto61D7DD61043AAC4D775442DA9A5CB696E.tmp' to '../../../../../../Users/Natasha/Documents/SAE/Trimester 3/GitKraken/Prototype1_Heteronomy/Saved/Autosaves/Game/Blueprints/Dialogue/DialogueTrigger_Auto6.uasset'
+[2019.09.29-04.54.47:217][487]LogFileHelpers: Auto-saving content packages took 0.120
+[2019.09.29-04.56.57:714][906]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.56.58:124][906]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2019.09.29-04.57.48:607][810]BlueprintLog: New page: Compile DialogueTrigger
+[2019.09.29-04.57.49:015][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2019.09.29-04.57.54:655][404]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-04.57.54:721][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.57.54:721][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-04.57.54:722][404]PIE: New page: PIE session: SubwayTunnels (30 Sep 2019 12:57:54 am)
+[2019.09.29-04.57.54:732][404]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_SubwayTunnels
+[2019.09.29-04.57.54:825][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093182s)
+[2019.09.29-04.57.54:826][404]LogAIModule: Creating AISystem for world SubwayTunnels
+[2019.09.29-04.57.54:826][404]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2019.09.29-04.57.54:827][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/SubwayTunnels.SubwayTunnels to /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels (0.094966s)
+[2019.09.29-04.57.54:898][404]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2019.09.29-04.57.54:934][404]LogInit: XAudio2 using 'SPDIF Interface (TX1) (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-04.57.54:947][404]LogInit: FAudioDevice initialized.
+[2019.09.29-04.57.54:980][404]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.29-04.57.55:004][404]LogWorld: Bringing World /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels up for play (max tick rate 0) at 2019.09.29-14.57.55
+[2019.09.29-04.57.55:005][404]LogWorld: Bringing up level for play took: 0.023888
+[2019.09.29-04.57.55:058][404]PIE: Play in editor start time for /Game/Level/UEDPIE_0_SubwayTunnels 1.24
+[2019.09.29-04.57.55:059][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.04:955][431]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueTrigger_C /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels:PersistentLevel.DialogueTrigger_2
+	Function /Game/Blueprints/Dialogue/DialogueTrigger.DialogueTrigger_C:CreateDialogue:0079
+[2019.09.29-04.58.04:955][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueTrigger Function:  Create Dialogue Graph:  CreateDialogue Node:  Set DialogueText
+[2019.09.29-04.58.04:972][431]LogScript: Warning: Attempted to assign to None
+	DialogueTrigger_C /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels:PersistentLevel.DialogueTrigger_2
+	Function /Game/Blueprints/Dialogue/DialogueTrigger.DialogueTrigger_C:CreateDialogue:008E
+[2019.09.29-04.58.04:972][431]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  DialogueTrigger Function:  Create Dialogue Graph:  CreateDialogue Node:  Set DialogueText
+[2019.09.29-04.58.13:867][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.13:867][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-04.58.13:901][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-04.58.13:902][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.14:006][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-04.58.14:016][406]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.09.29-04.58.14:143][407]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.29-04.58.15:375][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-04.58.29:195][105]BlueprintLog: New page: Compile DialogueWidget
+[2019.09.29-04.58.29:271][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2019.09.29-04.58.32:289][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-04.58.32:351][302]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.29-04.58.32:404][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.32:404][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.29-04.58.32:404][302]PIE: New page: PIE session: SubwayTunnels (30 Sep 2019 12:58:32 am)
+[2019.09.29-04.58.32:404][302]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_SubwayTunnels
+[2019.09.29-04.58.32:494][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089533s)
+[2019.09.29-04.58.32:495][302]LogAIModule: Creating AISystem for world SubwayTunnels
+[2019.09.29-04.58.32:495][302]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.09.29-04.58.32:495][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/SubwayTunnels.SubwayTunnels to /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels (0.090486s)
+[2019.09.29-04.58.32:567][302]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2019.09.29-04.58.32:584][302]LogInit: XAudio2 using 'SPDIF Interface (TX1) (VIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-04.58.32:595][302]LogInit: FAudioDevice initialized.
+[2019.09.29-04.58.32:625][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.29-04.58.32:631][302]LogWorld: Bringing World /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels up for play (max tick rate 0) at 2019.09.29-14.58.32
+[2019.09.29-04.58.32:632][302]LogWorld: Bringing up level for play took: 0.005609
+[2019.09.29-04.58.32:647][302]PIE: Play in editor start time for /Game/Level/UEDPIE_0_SubwayTunnels 0.829
+[2019.09.29-04.58.32:732][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.42:805][370]LogScript: Warning: Accessed None trying to read property DialogueWidget
+	DialogueTrigger_C /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels:PersistentLevel.DialogueTrigger_2
+	Function /Game/Blueprints/Dialogue/DialogueTrigger.DialogueTrigger_C:CreateDialogue:0079
+[2019.09.29-04.58.42:805][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property DialogueWidget". Blueprint:  DialogueTrigger Function:  Create Dialogue Graph:  CreateDialogue Node:  Set DialogueText
+[2019.09.29-04.58.42:805][370]LogScript: Warning: Attempted to assign to None
+	DialogueTrigger_C /Game/Level/UEDPIE_0_SubwayTunnels.SubwayTunnels:PersistentLevel.DialogueTrigger_2
+	Function /Game/Blueprints/Dialogue/DialogueTrigger.DialogueTrigger_C:CreateDialogue:008E
+[2019.09.29-04.58.42:805][370]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  DialogueTrigger Function:  Create Dialogue Graph:  CreateDialogue Node:  Set DialogueText
+[2019.09.29-04.58.47:111][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.47:122][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-04.58.47:161][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.29-04.58.47:161][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel' has LevelScriptBlueprint '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels' with GeneratedClass '/Game/Level/SubwayTunnels.SubwayTunnels_C' with ClassGeneratedBy '/Game/Level/SubwayTunnels.SubwayTunnels:PersistentLevel.SubwayTunnels'
+[2019.09.29-04.58.47:249][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-04.58.47:260][799]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.09.29-04.58.47:337][800]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.29-04.58.53:271][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-04.58.56:168][474]LogUObjectArray: Warning: Other object in slot
+[2019.09.29-04.58.56:174][474]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.29-04.58.57:750][474]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.576 s
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: 
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: Stack: 
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff9f91ac0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff9f8a26fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff9f8a34e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa079d37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a65cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a21e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa0dcc5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa0deb15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa0dd0d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa0dceaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa0dce0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa3151b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa3150ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa3151d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa3150c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa4357ca66 USER32.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa4357c582 USER32.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa3151e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff7cff35d3e UE4Editor.exe!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff7cff4554c UE4Editor.exe!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff7cff455ca UE4Editor.exe!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff7cff5316c UE4Editor.exe!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ff7cff55b8e UE4Editor.exe!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa42cd7974 KERNEL32.DLL!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: [Callstack] 0x00007ffa45b0a271 ntdll.dll!UnknownFunction []
+[2019.09.29-04.58.57:750][474]LogOutputDevice: Error: 
+[2019.09.29-04.58.57:777][474]LogStats:                SubmitErrorReport -  0.000 s
